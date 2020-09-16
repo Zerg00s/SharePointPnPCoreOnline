@@ -15,7 +15,7 @@ namespace PnPAuthenticationDemo
             Web web = ctx.Web;
             ctx.Load(web, w => w.Title);
             ctx.ExecuteQuery();            
-            Console.WriteLine("Web site title is " +  web.Title");
+            Console.WriteLine("Web site title is " +  web.Title);
         }
     }
 }
