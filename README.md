@@ -10,7 +10,7 @@ You can use this project as a demo and a starting point
 
 ![](2020-09-16-12-27-01.png)
 
-Add the following code the authenticate with SharePoint Online that 
+Add the following code to authenticate with SharePoint Online:
 
 ```
 class Program
